@@ -7,7 +7,7 @@ import java.util.List;
 @Data
 public class ApiResult {
 
-    public String code;
+    public Integer code;
 
     public String message;
 
